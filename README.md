@@ -1,8 +1,9 @@
-# inventor-api-assignment
+# Inventor-API-assignment
 
 ## Purpose:
 - To learn the Inventor API.
 - Created a button "Create Sample" which creates center point rectangle.
+- Visual Studio 2022 used
 
 ## Structure:
 - Visual Basic is used here.
